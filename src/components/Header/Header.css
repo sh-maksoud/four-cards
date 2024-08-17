@@ -1,0 +1,23 @@
+
+header {
+    text-align: center;
+    margin-top: 40px;
+}
+#Headerr{
+    color: #4c4e61;
+    font-size: 23px;
+    margin-bottom: 0;
+    font-weight:unset;
+    
+    
+}
+#SubHeader{
+    color: #4c4e61;
+    font-size: 1.5em;
+    margin-top: 5px;
+}
+#Text{
+    color: #a3a5ae;
+    max-width: 500px;
+    margin: 20px auto;
+}
